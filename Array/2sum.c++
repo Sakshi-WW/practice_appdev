@@ -1,3 +1,4 @@
+// Problem: Given an array of integers, find two numbers such that they add up to a specific target number.
 #include <bits/stdc++.h>
 using namespace std;
 
